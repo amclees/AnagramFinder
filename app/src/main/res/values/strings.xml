@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anagram Finder</string>
+    <string name="find_button">Find Anagrams</string>
+    <string name="word_input_hint">Word</string>
+</resources>
